@@ -221,7 +221,7 @@ would output
 
     <a href="/pastebin/paste/9">Sample Paste</a>
 
-.. note:: You must make sure the correct urlconf entry for the give url exists. If the url entry
+.. note:: You must make sure the correct urlconf entry for the given url exists. If the url entry
           does not exist, or the number of arguments does not match, this templatetag will raise a 
           ``NoReverseMatch`` exception.
 
